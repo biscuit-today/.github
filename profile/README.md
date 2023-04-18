@@ -1,4 +1,5 @@
-<img src="../assets/메인이미지.png">
+![메인이미지](https://user-images.githubusercontent.com/50512938/232665780-68fe277a-7f59-460c-880d-fb48f5db3d39.png)
+
 <br/>
 
 ### 📋 프로젝트 개요
@@ -116,34 +117,33 @@
 ### 🎨 기능 상세 및 구현 화면
 
 #### 1) 홈
-
-<img src="../assets/01_Home_01.png" width="30%"/> <img src="../assets/01_Home_02.png" width="30%"/> <img src="../assets/01_Home_03.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/50512938/232665837-8ebd302c-f842-425e-a4e4-0bcb359ca682.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232665843-554748cc-8960-44e3-9e77-063a5664707f.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232665844-8b743f9a-6fcb-49da-9808-ea260a9dc515.png" width="30%"/>
 
 #### 2) 피드백
 
-<img src="../assets/02_Modal_02_clicked.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/50512938/232667194-45646aa0-6406-45f2-bd76-f52ea5d83851.png" width="30%"/>
 
 #### 3) 퀴즈
 
 ##### 비로그인시
 
-<img src="../assets/04_LoggedIn_Modal_02.png" width="30%"/> <img src="../assets/04_LoggedIn_Modal_03.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/50512938/232667190-88188782-62f3-47cd-aa01-eea12b3e8016.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232667194-45646aa0-6406-45f2-bd76-f52ea5d83851.png" width="30%"/>
 
 ##### 로그인시
 
-<img src="../assets/02_Modal_06_nosigned.png" width="30%"/> <img src="../assets/04_LoggedIn_Modal_04.png" width="30%"/> <img src="../assets/04_LoggedIn_Modal_05.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/50512938/232666364-1a71b62b-5021-4402-9657-df55536d73ed.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232666425-a38639a1-3662-4b6d-a96e-679aa288d9db.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232666430-7e94f09c-9208-4ee7-8462-c4b94f418eec.png" width="30%"/>
 
 #### 4) 로그인 및 회원가입
 
-<img src="../assets/03_Login_01_modal.png" width="24%"/> <img src="../assets/03_Login_02_nickname.png" width="24%"/> <img src="../assets/03_Login_05_info.png" width="24%"/> <img src="../assets/03_Login_07_interest_clicked.png" width="24%"/>
+<img src="https://user-images.githubusercontent.com/50512938/232666609-eeb218db-7d5d-4a5f-ad70-5f0af4a6a326.png" width="24%"/> <img src="https://user-images.githubusercontent.com/50512938/232666611-e3f98b98-d0b0-433e-bac8-173f24359e23.png" width="24%"/> <img src="https://user-images.githubusercontent.com/50512938/232666612-fde870dc-ddfe-44d1-8cd8-6034a4995fbd.png" width="24%"/> <img src="https://user-images.githubusercontent.com/50512938/232666613-7b24b26e-bae1-4437-93d3-89b03357f533.png" width="24%"/>
 
 #### 5) 마이페이지
 
-<img src="../assets/06_Mypage_01.png" width="30%"/> <img src="../assets/06_Mypage_02.png" width="30%"/> <img src="../assets/06_Mypage_03_edit.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/50512938/232666737-dd03dfaa-512c-4876-8630-9fd8e3638ed4.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232666740-651e30c1-eda1-42ea-a07c-a7fe1fb02107.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232666742-e9b6dbd1-01a5-48b1-bcb1-b4a01a5830f3.png" width="30%"/>
 
 #### 6) 북마크 및 히스토리
 
-<img src="../assets/07_Mystore_01.png" width="30%"/> <img src="../assets/07_Mystore_02.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/50512938/232666853-d96395aa-e4cb-40c6-9ae1-9572e82e1a11.png" width="30%"/> <img src="https://user-images.githubusercontent.com/50512938/232666855-ee00e3b0-d81a-49d6-b943-2482184078f0.png" width="30%"/>
 
 <br/>
 <br/>
